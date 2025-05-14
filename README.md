@@ -9,6 +9,8 @@ This repository contains verified certifications I have completed as part of my 
 - - **Cisco- Networking Basics**
 - **Cisco- Networking Devices and Initial Configuration**
 
+You can see my Credly account: https://www.credly.com/users/md-ridoy-hossain
+
 ## About Me
 
 I am an aspiring Cybersecurity professional with skills in system pentesting, XSS, malware analysis, web security, and more.  
