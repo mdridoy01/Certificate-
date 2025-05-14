@@ -5,9 +5,9 @@ This repository contains verified certifications I have completed as part of my 
 
 ## Completed Certifications
 
-- **Cisco - Introduction to Cybersecurity**  
-  Issued by Cisco Networking Academy  
-  [View Certificate] https://github.com/mdridoy01/Certificate-/blob/main/I2CSUpdate20250513-27-1kr3s7.pdf
+- **Cisco - Introduction to Cybersecurity**
+- - **Cisco- Networking Basics**
+- **Cisco- Networking Devices and Initial Configuration**
 
 ## About Me
 
