@@ -8,6 +8,7 @@ This repository contains verified certifications I have completed as part of my 
 - **Cisco - Introduction to Cybersecurity**
 - - **Cisco- Networking Basics**
 - **Cisco- Networking Devices and Initial Configuration**
+- **Cisco- Endpoint Security**
 
 You can see my Credly account: https://www.credly.com/users/md-ridoy-hossain
 
